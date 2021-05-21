@@ -1,0 +1,2 @@
+1) https://www.kdnuggets.com/2020/06/deep-learning-detecting-pneumonia-x-ray-images.html
+2) https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/code

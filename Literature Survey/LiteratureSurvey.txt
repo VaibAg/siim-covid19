@@ -1,2 +1,6 @@
 1) https://pubs.rsna.org/doi/full/10.1148/rg.2017160130
 2) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6945006/#:~:text=In%20recent%20years%2C%20deep%20learning,filters%20and%20several%20mathematical%20algorithms.
+3) https://stanfordmlgroup.github.io/projects/chexnext/
+4) https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002686
+5) https://www.nature.com/articles/s41746-020-0273-z
+6) https://eurradiolexp.springeropen.com/articles/10.1186/s41747-020-00203-z
